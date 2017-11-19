@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExperimentDef rtULength="8" rtYLength="15">
+    <BlockDef id="Ford_FocusWagon_1">
+        <PortDef id="Position_Ford_FocusWagon_1" index="0" type="1" width="3"/>
+        <PortDef id="Velocity_Ford_FocusWagon_1" index="3" type="1" width="3"/>
+        <PortDef id="Acceleration_Ford_FocusWagon_1" index="6" type="1" width="3"/>
+        <PortDef id="RPY_Ford_FocusWagon_1" index="9" type="1" width="3"/>
+        <PortDef id="velRPY_Ford_FocusWagon_1" index="12" type="1" width="3"/>
+        <PortDef id="SELF_Ford_FocusWagon_1" index="0" type="0" width="8"/>
+    </BlockDef>
+</ExperimentDef>
